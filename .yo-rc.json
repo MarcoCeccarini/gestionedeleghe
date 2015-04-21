@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "gestionedeleghe",
+    "packageName": "org.mce.gestionedeleghe",
+    "packageFolder": "org/mce/gestionedeleghe",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "bc80223f502791b2c9896aedfb50526d1929161b"
+  }
+}

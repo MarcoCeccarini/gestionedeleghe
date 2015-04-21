@@ -1,0 +1,21 @@
+{
+    "gestionedelegheApp": {
+        "delega" : {
+            "home": {
+                "title": "Delegas",
+                "createLabel": "Créer un nouveau Delega",
+                "createOrEditLabel": "Créer ou éditer un Delega"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Delega {{ id }} ?"
+            },
+            "detail": {
+                "title": "Delega"
+            },
+            "nome": "Nome",
+            "cognome": "Cognome",
+            "codiceFiscale": "CodiceFiscale"
+        }
+    }
+}
+
